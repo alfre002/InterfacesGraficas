@@ -56,7 +56,7 @@ public class InterfazGrafica {
 			public void actionPerformed(ActionEvent e) {
 			}
 		});
-		frame.getContentPane().add(btnNewButton, BorderLayout.SOUTH);
+		frame.getContentPane().add(btnNewButton, BorderLayout.SOUTH);;
 	}
 
 }
